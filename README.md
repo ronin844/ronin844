@@ -1,5 +1,10 @@
-# 💫 About Me:
-## Hi there 👋 I'm Prasoon Singh<br>*B.Tech Mathematics & Computing @ RGIPT · Class of 2027*<br><br>🔭 **I'm currently working on** — AI-powered systems & full-stack platforms. My latest project, **Jeevan Setu**, is a healthcare platform connecting patients, doctors, and pharmacies with AI symptom analysis and real-time consultations.<br><br>👯 **I'm looking to collaborate on** — competitive programming contests, RAG/LLM systems, and open-source full-stack projects (React/Next.js + Node.js).<br><br>🤝 **I'm looking for help with** — advanced ML research, distributed systems, and scaling backend APIs for production.<br><br>🌱 **I'm currently learning** — Financial Engineering, Computational PDEs, and deepening my understanding of Stochastic Processes and Black–Scholes pricing models.<br><br>💬 **Ask me about** — competitive programming (900+ problems solved across LeetCode, CodeChef & Codeforces), RAG pipelines, or building full-stack web apps with Next.js and FastAPI.<br><br>⚡ **Fun fact** — I hit **Global Rank 2,029 (Top 5%)** in LeetCode Weekly Contest 485 among 34,000+ participants — and I also spike for my college volleyball team 🏐
+## Hi there 👋 I'm Prasoon Singh
+
+B.Tech Mathematics & Computing student at RGIPT (class of 2027), passionate about building AI-powered systems and full-stack web applications.
+I enjoy competitive programming — 900+ problems solved across LeetCode, CodeChef, and Codeforces, with a global rank of 2,029 (top 5%) in LeetCode Weekly Contest 485.
+I've worked on RAG pipelines, LLM integrations, and a full-stack healthcare platform connecting patients, doctors, and pharmacies.
+Currently learning computer networking from the ground up — building TCP/UDP protocols from scratch to understand how the internet actually works.
+Outside of code, I play volleyball for my college team.
 
 
 # 💻 Tech Stack:
